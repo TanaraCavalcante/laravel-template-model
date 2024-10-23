@@ -4,7 +4,7 @@
 
 @section("main-content")
 
-<h1>
+<h1 class="text-center">
     Home - main contents
 </h1>
 

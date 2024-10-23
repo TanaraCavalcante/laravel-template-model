@@ -10,7 +10,7 @@
 <body>
     {{-- inserisce il header --}}
     @include("partials.header")
-
+    
     {{-- Inserisce contenuti da chi estende --}}
     <main>
         @yield("main-content")
